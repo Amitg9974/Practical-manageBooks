@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b9fa017.css",
-    "main.js": "/static/js/main.cf4112fe.js",
-    "static/js/453.0216ce09.chunk.js": "/static/js/453.0216ce09.chunk.js",
-    "static/media/bg1.png": "/static/media/bg1.7b6b7467cd83f4871538.png",
-    "index.html": "/index.html",
-    "main.7b9fa017.css.map": "/static/css/main.7b9fa017.css.map",
-    "main.cf4112fe.js.map": "/static/js/main.cf4112fe.js.map",
-    "453.0216ce09.chunk.js.map": "/static/js/453.0216ce09.chunk.js.map"
+    "main.css": "/Practical-manageBooks/static/css/main.eb564cc6.css",
+    "main.js": "/Practical-manageBooks/static/js/main.667b1ae5.js",
+    "static/js/453.0216ce09.chunk.js": "/Practical-manageBooks/static/js/453.0216ce09.chunk.js",
+    "static/media/bg1.png": "/Practical-manageBooks/static/media/bg1.7b6b7467cd83f4871538.png",
+    "index.html": "/Practical-manageBooks/index.html",
+    "main.eb564cc6.css.map": "/Practical-manageBooks/static/css/main.eb564cc6.css.map",
+    "main.667b1ae5.js.map": "/Practical-manageBooks/static/js/main.667b1ae5.js.map",
+    "453.0216ce09.chunk.js.map": "/Practical-manageBooks/static/js/453.0216ce09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b9fa017.css",
-    "static/js/main.cf4112fe.js"
+    "static/css/main.eb564cc6.css",
+    "static/js/main.667b1ae5.js"
   ]
 }
